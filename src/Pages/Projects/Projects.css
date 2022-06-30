@@ -1,0 +1,12 @@
+.card-img {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  clip-path: polygon(15% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+.card-img {
+  background-image: url(https://images.unsplash.com/photo-1530563885674-66db50a1af19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80);
+}
+a {
+  text-decoration: underline;
+}

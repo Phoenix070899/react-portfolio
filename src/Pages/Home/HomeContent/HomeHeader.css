@@ -1,0 +1,39 @@
+.home-img .img {
+  background-image: url(https://i.ibb.co/zbFKyV8/IMG-8264.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.home-img .img::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  padding-bottom: 100%;
+  opacity: 0.2;
+  background-color: var(--medium-blue);
+  z-index: -1;
+  transform: scale(1.2);
+  border-radius: 9999px;
+}
+
+.img p {
+  padding: 0.5rem;
+  color: white;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  max-width: fit-content;
+  background-color: var(--dark-blue);
+  position: absolute;
+}
+.img p:first-child {
+  top: 20%;
+  left: -15%;
+  background-color: var(--orange-primary);
+}
+.img p:nth-child(2) {
+  top: 40%;
+  right: -15%;
+}
+.img p:last-child {
+  bottom: -15%;
+  right: 45%;
+}

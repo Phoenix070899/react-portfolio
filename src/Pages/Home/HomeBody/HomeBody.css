@@ -1,0 +1,11 @@
+img {
+  width: 5%;
+  height: auto;
+  transition: all 150ms ease-out;
+}
+img.tailwind {
+  width: 15%;
+}
+img:hover {
+  transform: scale(1.2);
+}

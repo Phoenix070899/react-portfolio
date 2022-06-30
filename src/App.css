@@ -1,0 +1,17 @@
+h1 {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+h2 {
+  font-size: x-large;
+  font-weight: 600;
+}
+h3 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+h4 {
+  font-size: 0.875rem;
+  color: var(--orange-primary);
+  font-weight: 500;
+}

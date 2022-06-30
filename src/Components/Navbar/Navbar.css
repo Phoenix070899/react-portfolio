@@ -1,0 +1,14 @@
+ul li {
+  padding: 5px 10px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 100ms ease-in;
+}
+
+ul li.active,
+ul li:hover {
+  color: var(--orange-primary);
+}
+button {
+  background-color: var(--orange-primary);
+}
