@@ -6,7 +6,7 @@ import Footer from "./Components/Footer";
 function App() {
   return (
     <div className="w-screen">
-      <div className="container mx-auto max-w-[1024px]">
+      <div className="container mx-auto max-w-[1024px] px-5">
         <Navbar />
         <Body />
         <Footer />

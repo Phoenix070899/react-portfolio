@@ -11,4 +11,9 @@ ul li:hover {
 }
 button {
   background-color: var(--orange-primary);
+  transition: all 150ms ease-in;
+}
+
+button.contact-me:hover {
+  transform: scale(1.05);
 }

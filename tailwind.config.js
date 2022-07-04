@@ -19,6 +19,12 @@ module.exports = {
       "medium-blue": "#9cc4e4",
       "light-blue": "#e9f2f9",
     },
+    container: {
+      padding: {
+        padding: "2rem",
+      },
+      center: true,
+    },
   },
 
   plugins: [],

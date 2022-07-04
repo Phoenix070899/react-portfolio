@@ -2,9 +2,11 @@ img {
   width: 5%;
   height: auto;
   transition: all 150ms ease-out;
+  min-width: 70px;
 }
 img.tailwind {
   width: 15%;
+  min-width: 100px;
 }
 img:hover {
   transform: scale(1.2);

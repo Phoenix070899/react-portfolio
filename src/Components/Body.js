@@ -1,8 +1,8 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Home from "../Pages/Home/Home";
-import About from "../Pages/About";
 import Projects from "../Pages/Projects/Projects";
+import About from "../Pages/About/About";
 function Body() {
   return (
     <div>

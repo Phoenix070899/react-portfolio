@@ -1,0 +1,15 @@
+.info-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: var(--dark-blue);
+}
+.info-content div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  transition: all 150ms ease-in;
+}
+.info-content div:hover {
+  color: var(--orange-primary);
+}
