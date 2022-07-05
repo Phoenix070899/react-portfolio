@@ -28,13 +28,13 @@ function Projects() {
             <div className="card-link flex gap-5">
               <div>
                 <LanguageRoundedIcon fontSize="small" />
-                <a href="https://phoenix070899.github.io/weather-app/">
+                <a href="https://phoenix070899.github.io/music-player/">
                   Website
                 </a>
               </div>
               <div>
                 <GitHubIcon fontSize="small" />
-                <a href="https://github.com/Phoenix070899/weather-app.git">
+                <a href="https://github.com/Phoenix070899/music-player.git">
                   Source Code
                 </a>
               </div>
@@ -87,13 +87,11 @@ function Projects() {
             <div className="card-link flex gap-5">
               <div>
                 <LanguageRoundedIcon fontSize="small" />
-                <a href="https://phoenix070899.github.io/weather-app/">
-                  Website
-                </a>
+                <a href="spotify-clone-ochre-nine.vercel.app">Website</a>
               </div>
               <div>
                 <GitHubIcon fontSize="small" />
-                <a href="https://github.com/Phoenix070899/weather-app.git">
+                <a href="https://github.com/Phoenix070899/spotify-clone.git">
                   Source Code
                 </a>
               </div>
