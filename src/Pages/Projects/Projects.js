@@ -28,13 +28,21 @@ function Projects() {
             <div className="card-link flex gap-5">
               <div>
                 <LanguageRoundedIcon fontSize="small" />
-                <a href="https://phoenix070899.github.io/music-player/">
+                <a
+                  href="https://phoenix070899.github.io/music-player/"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   Website
                 </a>
               </div>
               <div>
                 <GitHubIcon fontSize="small" />
-                <a href="https://github.com/Phoenix070899/music-player.git">
+                <a
+                  href="https://github.com/Phoenix070899/music-player.git"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   Source Code
                 </a>
               </div>
@@ -56,13 +64,21 @@ function Projects() {
             <div className="card-link flex gap-5">
               <div>
                 <LanguageRoundedIcon fontSize="small" />
-                <a href="https://phoenix070899.github.io/weather-app/">
+                <a
+                  href="https://phoenix070899.github.io/weather-app/"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   Website
                 </a>
               </div>
               <div>
                 <GitHubIcon fontSize="small" />
-                <a href="https://github.com/Phoenix070899/weather-app.git">
+                <a
+                  href="https://github.com/Phoenix070899/weather-app.git"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   Source Code
                 </a>
               </div>
@@ -87,11 +103,21 @@ function Projects() {
             <div className="card-link flex gap-5">
               <div>
                 <LanguageRoundedIcon fontSize="small" />
-                <a href="spotify-clone-ochre-nine.vercel.app">Website</a>
+                <a
+                  href="spotify-clone-ochre-nine.vercel.app"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  Website
+                </a>
               </div>
               <div>
                 <GitHubIcon fontSize="small" />
-                <a href="https://github.com/Phoenix070899/spotify-clone.git">
+                <a
+                  href="https://github.com/Phoenix070899/spotify-clone.git"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   Source Code
                 </a>
               </div>

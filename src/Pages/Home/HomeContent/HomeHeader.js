@@ -21,9 +21,13 @@ function HomeHeader() {
           have basic knowledge in HTML, CSS, JAVASCRIPT, REACTJS and easy to
           adapt under pressure.
         </p>
-        <a href="/src/assets/Nguyễn Trung Dũng - Resume.pdf" download>
+        <a
+          href="https://pdfhost.io/v/w.1l9GsaU_Nguyen_Trung_Dung_Resume"
+          target="__blank"
+          download
+        >
           <button className="px-4 py-2 w-fit rounded-md text-sm font-semibold text-white hover:opacity-80 transition-all">
-            Download my CV
+            View my CV
           </button>
         </a>
       </div>
