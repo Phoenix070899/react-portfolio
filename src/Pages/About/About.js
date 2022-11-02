@@ -28,13 +28,12 @@ function About() {
         websites efficiently.
       </p>
       <p>
-        In the previous position, I worked as a Graphic Design on E-commerce
-        platforms such as Shopee, Lazada, and Tiki at Lixibox Cosmetic. I
-        believe I have gained insight into the importance of building a
-        memorable consumer experience that aligns with a brand. I have also had
-        to learn how to collaborate with others as part of a team, communicate
-        clearly, and make decisions when necessary. I believe I could contribute
-        to your team. I am looking forward to hearing from you.
+        As a Front-end Web Developer in my previous position at Minerva
+        Technology Solution, I worked on some projects in the banking system. I
+        believe I gained so much experience and knowledge when getting access to
+        real projects' source code, adding new features, and coding effectively.
+        I also know how to collaborate with others as part of a team,
+        communicate clearly, and make decisions when necessary.
       </p>
       <p>Sincerely, Trung Dũng</p>
     </div>
